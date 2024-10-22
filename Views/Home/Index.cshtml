@@ -1,0 +1,67 @@
+﻿
+@{
+  
+}
+
+@* @await Component.InvokeAsync("Notyf") *@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <style>
+    .bg-thead {
+      text-align: center;
+      background: #E1D5E7;
+      color: #000000
+    }
+
+    @*.table.table-head-fixed.text-nowrapthead{color:#ffffff;/*เปลี่ยนสีตัวอักษรเป็นสีขาว*/background-color:#007bff;/*เปลี่ยนสีพื้นหลังเป็นสีฟ้า*/}*@
+  </style>
+</head>
+
+<body class="hold-transition sidebar-mini">
+  <section class="content">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h1 class="text-Gray Dark" style="margin-top:90px" class="display-6">WB2024-015-SaleManagement</h1>
+          <br />
+          <p>บริษัท ผลิตภัณฑ์คอนกรีตชลบุรี จำกัด (มหาชน)</p>
+          <br /> <br />
+          <div class="row">
+            <div class="col-12">
+              <div class="card">
+                <div class="form-group">
+                  <div style="height: *;">
+                    <table class="table table-bordered text-wrap">
+                      <thead class="bg-thead">
+                        <tr>
+                          <th style="width: 80px" class="text-center">Version</th>
+                          <th style="width: 120px" class="text-center">Detail</th>
+                          <th style="width: 140px" class="text-center">คู่มือ</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+
+                        @* @foreach (var item in ViewBag.MainPageData)
+                        {
+                        <tr>
+                        <td>@item.Version</td>
+                        <td>@item.Detail</td>
+                        <td> <a href="@item.Manual" target="_blank">@item.Manual</a></td>
+                        </tr>
+                        } *@
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
