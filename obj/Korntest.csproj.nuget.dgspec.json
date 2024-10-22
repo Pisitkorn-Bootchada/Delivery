@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {}
+    "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {
+    "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
+        "projectUniqueName": "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
         "projectName": "Korntest",
-        "projectPath": "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
+        "projectPath": "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
         "packagesPath": "C:\\Users\\Pisitkorn.b\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\obj\\",
+        "outputPath": "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pisitkorn.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
