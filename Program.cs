@@ -1,3 +1,4 @@
+using AspNetCoreHero.ToastNotification.Extensions;
 using Korntest.Models.db;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
@@ -51,7 +52,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 app.UseRequestLocalization("en-US");
-// app.UseNotyf();
+app.UseNotyf();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

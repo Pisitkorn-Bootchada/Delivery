@@ -1,0 +1,22 @@
+@{
+
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="error-page" style="margin-top:90px">
+            <h2 class="headline text-danger"> @ViewBag.messageId</h2>
+
+            <div class="error-content">
+                <h3><i class="fas fa-exclamation-triangle text-danger"></i> Oops! Something went wrong.</h3>
+                <p>
+                    @ViewBag.MessageError <a asp-controller="Home" asp-action="Index">return to
+                        dashboard</a> หรือ กรุณาติดต่อ
+                    Administrator ระบบ
+                </p>
+                <hr>
+            </div>
+        </div>
+        </section>
+    </div>
+</div>

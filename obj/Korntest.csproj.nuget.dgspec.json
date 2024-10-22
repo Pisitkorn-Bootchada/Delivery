@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {}
+    "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {
+    "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
+        "projectUniqueName": "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
         "projectName": "Korntest",
-        "projectPath": "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
+        "projectPath": "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\Korntest.csproj",
         "packagesPath": "C:\\Users\\Pisitkorn.b\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\obj\\",
+        "outputPath": "C:\\Users\\Pisitkorn.b\\Desktop\\Korntest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pisitkorn.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,6 +52,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.CookiePolicy": {
+              "target": "Package",
+              "version": "[2.2.8, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
