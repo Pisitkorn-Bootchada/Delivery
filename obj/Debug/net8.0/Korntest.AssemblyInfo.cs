@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Korntest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aee03a01eca997bf1db7009524e440d5917cc8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Korntest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Korntest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

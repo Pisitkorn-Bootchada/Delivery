@@ -139,3 +139,4 @@ c:\Users\Pisitkorn.b\Desktop\Korntest\bin\Debug\net8.0\AspNetCoreHero.ToastNotif
 c:\Users\Pisitkorn.b\Desktop\Korntest\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll
 c:\Users\Pisitkorn.b\Desktop\Korntest\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 c:\Users\Pisitkorn.b\Desktop\Korntest\obj\Debug\net8.0\Korntest.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Pisitkorn.b\Desktop\Korntest\obj\Debug\net8.0\Korntest.sourcelink.json
